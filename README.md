@@ -5,5 +5,3 @@ so you need account have Username feature and put the token inside "py", type yo
 py 3.11 
 py 3.10 
 discord.py
-
-coded by vGnTLHaCkEr/
